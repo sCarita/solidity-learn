@@ -1,0 +1,21 @@
+{
+  "name": "00-hello-world",
+  "version": "1.0.0",
+  "description": "Initial testing and development on Smart Contracts for the ETH blockchain.",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "lodash": "^4.17.21",
+    "solc": "^0.8.11",
+    "truffle": "^5.4.26"
+  }
+}
